@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://https://67clickergame.github.io/sitemap.xml
